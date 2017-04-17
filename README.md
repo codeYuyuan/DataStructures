@@ -9,7 +9,7 @@ DataStructures-CS61B-06Fall By Prof. Jonathan Shewchuk
 6.Disjoint Sets  
 
 Books I read for this course:   
-Kathy Sierra and Bert Bates, *Head First Java*，O'Reilly, 2005;
+Kathy Sierra and Bert Bates, *Head First Java*，O'Reilly, 2005;  
 Michael T. Goodrich and Roberto Tamassia, *Data Structures and Algorithms in Java*，John Wiley & Sons, 2006.;
 
 **Thanks for Prof. Jonathan Schewchuk's excellent lecturing!**  
